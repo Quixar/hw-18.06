@@ -1,0 +1,14 @@
+C:\Users\Quixar\source\repos\condition loops arrays\bin\Debug\net8.0\condition loops arrays.exe
+C:\Users\Quixar\source\repos\condition loops arrays\bin\Debug\net8.0\condition loops arrays.deps.json
+C:\Users\Quixar\source\repos\condition loops arrays\bin\Debug\net8.0\condition loops arrays.runtimeconfig.json
+C:\Users\Quixar\source\repos\condition loops arrays\bin\Debug\net8.0\condition loops arrays.dll
+C:\Users\Quixar\source\repos\condition loops arrays\bin\Debug\net8.0\condition loops arrays.pdb
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\condition loops arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\condition loops arrays.AssemblyInfoInputs.cache
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\condition loops arrays.AssemblyInfo.cs
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\condition loops arrays.csproj.CoreCompileInputs.cache
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\condition loops arrays.dll
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\refint\condition loops arrays.dll
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\condition loops arrays.pdb
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\condition loops arrays.genruntimeconfig.cache
+C:\Users\Quixar\source\repos\condition loops arrays\obj\Debug\net8.0\ref\condition loops arrays.dll
